@@ -19,3 +19,4 @@ let c=a.map((el)=>el*2);
 console.log(c);
 
 //sfsfddffbfbnfbn
+//sadsadsfsdd
